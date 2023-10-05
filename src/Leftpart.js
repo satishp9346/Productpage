@@ -52,13 +52,13 @@ function Leftpart() {
     ];
     const cartarr={
         image:arr[0].image,
-        name:"realme C55 (Sunshower, 64 GB)",
-        ram:"4 GB RAM",
+        name:"realme C55 (Sunshower, 128 GB)",
+        ram:"8 GB RAM",
         seller:"Seller:ECOMTAMSINRetail",
-        actualcost:"12,999",
-        cost:"9,999",
-        off:"23% off 2 offers applied",
-        deliverydate:"Thu Oct 5"
+        actualcost:"15,999",
+        cost:"12,999",
+        off:"18% off 2 offers applied",
+        deliverydate:"Mon Oct 9"
 
     };
     
