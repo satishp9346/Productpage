@@ -111,7 +111,7 @@ function Leftpart() {
           <div className='z2_1'>
             <div className='z2_1_1'>
             <i className="fa fa-shopping-cart" style={{"fontSize":"25px","color":"#fff"}}></i>
-            <h3><a onClick={onclickHandler} href='http://localhost:3002/FlipkartinCart' target='_blank' style={{color:"#fff"}}>ADD TO CART</a></h3>
+            <h3><a onClick={onclickHandler} href='https://cart-taupe.vercel.app/FlipkartinCart' target='_blank' style={{color:"#fff"}}>ADD TO CART</a></h3>
             </div>
             <div className='z2_1_1' style={{backgroundColor:"orangered"}}>
             <i class="fa fa-bolt" style={{"fontSize":"22px","color":"#fff"}}></i>
