@@ -3,14 +3,14 @@ import 'firebase/compat/auth'
 import 'firebase/compat/database'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyD8XMYOIw3zurwAamyQLqXTM70ne-5qrGQ",
-    authDomain: "cart-1c27e.firebaseapp.com",
-    databaseURL: "https://cart-1c27e-default-rtdb.firebaseio.com",
-    projectId: "cart-1c27e",
-    storageBucket: "cart-1c27e.appspot.com",
-    messagingSenderId: "885369601362",
-    appId: "1:885369601362:web:8edbaeb111a64844278e8b"
-  };
+  apiKey: "AIzaSyBi4knaEfuLJV1YYTn_2F1W0d6Z7tP7B00",
+  authDomain: "cart-a3019.firebaseapp.com",
+  databaseURL: "https://cart-a3019-default-rtdb.firebaseio.com",
+  projectId: "cart-a3019",
+  storageBucket: "cart-a3019.appspot.com",
+  messagingSenderId: "957668693551",
+  appId: "1:957668693551:web:455e1dbf3b23158b8fd8da"
+};
   
   // Initialize Firebase
 var dataRef= firebase.initializeApp(firebaseConfig);
